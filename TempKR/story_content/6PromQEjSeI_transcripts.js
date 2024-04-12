@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":512,"text":"Rather than reaching into the red zone,"},{"start":2816,"text":"create a Smart Setup to position your elbows closer \r\nand make your work easier."},{"start":8000,"text":"Here are some ways you can create a Smart Setup on a daily basis."},{"start":12512,"text":"Rather than working off of the floor or ground,"},{"start":15072,"text":"use a rasied surface to Position Elbows Closer."},{"start":18752,"text":"Avoid repetitive stress and strain."},{"start":21600,"text":"Store heavy or frequently used items closer to your green zone,"},{"start":25824,"text":"store the light and bulky items on the lower shelf,"},{"start":28800,"text":"and put the smallest lightest items on the upper shelves."},{"start":32352,"text":"And it pays to take time to adjust your seat"},{"start":35104,"text":"to Position Elbows Closer."}]}]};
+    window.globalLoadJsAsset('story_content/6PromQEjSeI_transcripts.js', JSON.stringify(data));
+})();

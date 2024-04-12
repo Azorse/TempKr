@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":224,"text":"Instead of reaching into your red zone"},{"start":2464,"text":"create a Smart Setup to position your elbows closer \r\nand make your work easier."},{"start":7872,"text":"This can as simple as setting your materials on an available stool \r\nor other rasied surface."},{"start":13088,"text":"Or you may be able to use material handling equipment \r\nto create a Smart Setup for lifting or stacking."},{"start":18944,"text":"When you do, please remember to use all relevant safety prodecures."},{"start":23712,"text":"Use Smart Setup to avoid repetitive stress and strain."},{"start":27203,"text":"By storing heavy or fequently used items \r\ncloser to your green zone."}]}]};
+    window.globalLoadJsAsset('story_content/6XNSktBsaan_transcripts.js', JSON.stringify(data));
+})();

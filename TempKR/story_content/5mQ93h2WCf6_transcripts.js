@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":416,"text":"Creating a Smart Setup is a good way"},{"start":3424,"text":"to reduce stress and Use Mid-range Wrist Motions"},{"start":6944,"text":"For example,"},{"start":7872,"text":"repetitively reaching into boxes about shouder height"},{"start":11020,"text":"can result in stress due to end-range wrist motions."},{"start":14496,"text":"If possible, reposition the boxes so they tilt toward you."},{"start":18304,"text":"This enables you to Use Mid-range Wrist Motions."},{"start":21504,"text":"Here's another example"},{"start":23011,"text":"it's easy to start out in a mid-range position"},{"start":26048,"text":"but wind up in and end-range wrist position."},{"start":29376,"text":"Taking a few seconds to reposition your work"},{"start":32096,"text":"eliminates the end-range wrist motion"},{"start":34219,"text":"and reduces cumulative stress and fatigue."}]}]};
+    window.globalLoadJsAsset('story_content/5mQ93h2WCf6_transcripts.js', JSON.stringify(data));
+})();

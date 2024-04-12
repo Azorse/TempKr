@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":160,"text":"Reaching with your Same Side Hand and Foot \r\nis an easy to use technique. "},{"start":4308,"text":"If you're reaching with your right hand,"},{"start":5952,"text":"put your right foot forward."},{"start":7517,"text":"If you're reaching with your left hand, "},{"start":9025,"text":"put your left foot forward."},{"start":10789,"text":"If you're reaching with both hands,"},{"start":12448,"text":"then put one foot forward to line up your strength and balance."},{"start":16000,"text":"Reaching out without positioning your same side foot forward"},{"start":19328,"text":"concentrates the work of lifting or pulling on your back and shoulder muscles."},{"start":23696,"text":"Even when you can't move a foot forward"},{"start":26004,"text":"positioning the other leg back"},{"start":27552,"text":"lines up your balance and allows your legs to do more of the work."}]}]};
+    window.globalLoadJsAsset('story_content/6cEoKPFz0Bs_transcripts.js', JSON.stringify(data));
+})();

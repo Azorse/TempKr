@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":416,"text":"The recommended trainer setup enables you to use \r\nbetter Safey In Motion technique."},{"start":5280,"text":"This shows the audience you practice what you teach."},{"start":8960,"text":"It's important to avoid standing infront of the participant."},{"start":12736,"text":"To prevent this, stand close to the back of the participants hand."},{"start":17024,"text":"Put either your right or left hand on top of their hand. \r\nBut not on top of their thumb."},{"start":22208,"text":"Make sure your elbow is in the green or yellow zone."},{"start":25440,"text":"And position your same side foot forward."},{"start":28736,"text":"Finally, place your other hand at thier shoulder height\r\nto serve as a lifting target."},{"start":33600,"text":"This recommended trainer setup utilizes \r\nthe same SIM4 techniques that you teach."}]}]};
+    window.globalLoadJsAsset('story_content/64kCWu5wlU9_transcripts.js', JSON.stringify(data));
+})();

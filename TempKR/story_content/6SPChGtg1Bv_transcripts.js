@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":256,"text":"In Safety In Motion there are three leverage zones."},{"start":3525,"text":"Green,"},{"start":4405,"text":"yellow,"},{"start":5092,"text":"and red."},{"start":6480,"text":"Each zone is based on your elbow position, "},{"start":9040,"text":"not your hand position."},{"start":11208,"text":"If your elbows move more than six inches away from your side, "},{"start":14576,"text":"in any direction, "},{"start":16013,"text":"You’re operating in your red zone."},{"start":18464,"text":"As your elbow moves into your far red zone, "},{"start":21156,"text":"strain on your shoulder and back increases."},{"start":23812,"text":"In fact,"},{"start":24733,"text":"in the very far red zone, "},{"start":26492,"text":"lifting a ten pound object "},{"start":28500,"text":"can result in up to 1500 pounds of force on your low back."}]}]};
+    window.globalLoadJsAsset('story_content/6SPChGtg1Bv_transcripts.js', JSON.stringify(data));
+})();

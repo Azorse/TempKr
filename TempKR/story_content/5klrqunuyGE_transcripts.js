@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":704,"text":"When you carry"},{"start":1837,"text":"adjusting one hand to hold the near corner of the load"},{"start":4928,"text":"positions one elbow closer to your side."},{"start":7424,"text":"This reduces the stress on your shoulders and spine."},{"start":10976,"text":"With your hands in this position"},{"start":12992,"text":"it's easy to shift the load and open a triangle of vision."},{"start":16256,"text":"This enables you to see your next step."},{"start":19093,"text":"Finally, this hand position makes it easy \r\nto set the corner of the load down,"},{"start":23392,"text":"then slide the load where you want it."}]}]};
+    window.globalLoadJsAsset('story_content/5klrqunuyGE_transcripts.js', JSON.stringify(data));
+})();
