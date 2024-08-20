@@ -931,7 +931,7 @@ var name=player.GetVar("TextEntry");
 var date=player.GetVar("SystemDate");
 var course=player.GetVar("CourseName");
 
-var urlstring = ("https://azorse.github.io/certificate/Saif/SIMKRCertificate.html?print=" + name + "&" + course + "&" + date);
+var urlstring = ("https://azorse.github.io/certificate/WCMRC/SIMKRCertificate.html?print=" + name + "&" + course + "&" + date);
 
 window.open(urlstring,"width=900,height=700,menubar=no");
 
